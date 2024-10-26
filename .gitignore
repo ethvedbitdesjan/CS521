@@ -8,3 +8,4 @@
 */.idea/*
 */.vscode/*
 */glove.6B.300d.txt
+*mnist_data/*
