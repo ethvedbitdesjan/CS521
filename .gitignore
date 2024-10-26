@@ -1,0 +1,10 @@
+*/mnist_data/*
+*/weights*
+*/weight*
+*/__pycache__/*
+*/*.pt
+*/*.pth
+*/.ipynb_checkpoints/*
+*/.idea/*
+*/.vscode/*
+*/glove.6B.300d.txt
